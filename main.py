@@ -4,8 +4,6 @@ from typing import List
 import agentql
 from playwright.sync_api import sync_playwright
 from concurrent.futures import ThreadPoolExecutor
-import playwright
-playwright.install()
 
 app = FastAPI()
 
