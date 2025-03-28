@@ -1,1 +1,8 @@
 fastapi[all]
+uvicorn
+playwright
+agentql
+pydantic
+python-multipart
+typing-extensions
+python-dotenv
